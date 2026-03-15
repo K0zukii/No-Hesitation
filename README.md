@@ -6,6 +6,7 @@ This project was developed as part of the Unity **Junior Programmer Pathway** ce
 
 🔗 **[Play the game on Itch.io](https://kozukii.itch.io/no-hesitation)** | 🔗 **[Play on Unity Play](https://play.unity.com/en/games/dbd23f01-f25c-4854-ac9a-4823454041ae/no-hesitation)**
 
+![Gameplay](No-Hesitation-gif.gif)
 ---
 
 ## Screenshots
