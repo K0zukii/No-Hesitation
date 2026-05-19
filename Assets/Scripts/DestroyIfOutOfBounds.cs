@@ -9,7 +9,7 @@ public class DestroyIfOutOfBounds : MonoBehaviour
     {
         if (transform.position.z < downBound)
         {
-            SpawnManager.Instance.ReturnObjectToPool(gameObject);
+            PoolingSystem.Instance.ReturnObjectToPool(gameObject);
         }
     }
 }
